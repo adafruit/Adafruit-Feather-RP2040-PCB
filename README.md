@@ -1,5 +1,7 @@
 # Adafruit-Feather-RP2040-PCB
 
+![Feather RP2040](https://cdn-shop.adafruit.com/970x728/4884-05.jpg)
+
 Open source PCB files for Feather RP2040
 
 PCB format is EagleCAD schematic and board layout
